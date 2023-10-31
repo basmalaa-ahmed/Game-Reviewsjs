@@ -4,3 +4,4 @@ Technologies:
 HTML CSS Bootstrap
 JavaScript
 Live Demo:
+https://basmalaa-ahmed.github.io/Game-Reviewsjs/
